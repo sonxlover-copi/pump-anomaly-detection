@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+torch
+chronos-forecasting
+ipython
+ipykernel
+jupyterlab

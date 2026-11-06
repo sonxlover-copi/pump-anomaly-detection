@@ -1,0 +1,15 @@
+# Local environment
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Local datasets, model weights, and generated outputs
+data/
+*.pt
+*.pth
+*.onnx
+submission.csv
+skab_lab_runs/
+.DS_Store
